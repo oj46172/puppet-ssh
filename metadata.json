@@ -1,0 +1,15 @@
+{
+  "name": "oj46172-ssh",
+  "version": "0.1.0",
+  "author": "Alfred Johnson",
+  "summary": "This module will manage ssh",
+  "license": "Apache-2.0",
+  "source": "https://github.com/oj46172/puppet-ssh.git",
+  "project_page": "https://github.com/oj46172/puppet-ssh",
+  "issues_url": "https://github.com/oj46172/puppet-ssh/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
